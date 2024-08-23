@@ -220,6 +220,60 @@ res(x);
 // });
 
 
+// let x1=Window.matchMedia("((min-width:481) and (max-width:600px))")
+
+// function res1(x){
+
+//     if(x.matches){
+
+//         function check(){
+//             let red = Math.floor(Math.random()*255);
+//             let blue = Math.floor(Math.random()*255);
+//             let green = Math.floor(Math.random()*255);
+//             let rgb=`rgb(${red},${blue},${green})`;
+//             a.style.backgroundColor=rgb;
+           
+           
+            
+//         }
+        
+//         b.addEventListener('click',check);
+
+//     }
+
+// }
+
+
+// res1(x1);
+
+
+// let x2=Window.matchMedia("((min-width:601) and (max-width:480px))")
+
+// function res2(x){
+
+//     if(x.matches){
+
+//         function check(){
+//             let red = Math.floor(Math.random()*255);
+//             let blue = Math.floor(Math.random()*255);
+//             let green = Math.floor(Math.random()*255);
+//             let rgb=`rgb(${red},${blue},${green})`;
+//             a.style.backgroundColor=rgb;
+           
+           
+            
+//         }
+        
+//         b.addEventListener('click',check);
+
+//     }
+
+// }
+
+
+// res2(x2);
+
+
 
 
 
