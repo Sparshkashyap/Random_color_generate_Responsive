@@ -188,7 +188,7 @@ function check(){
 
 b.addEventListener('click',check);
 
-let x=Window.matchMedia("(max-width:700px)")
+let x=Window.matchMedia("(max-width:480px)")
 
 function res(x){
 
